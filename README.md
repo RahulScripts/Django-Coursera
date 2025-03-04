@@ -1,0 +1,2 @@
+# Django-Coursera
+Minor Course
